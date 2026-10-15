@@ -1,9 +1,11 @@
-# Group :
+#Board Game — SAE 1.1-2
+
+## Author :
 
 Legros Ewenn & Faveroult Hugo
 TP2.1
 
-# How to play
+## How to play
 
 Open a terminal (ctrl + alt + t)
 
