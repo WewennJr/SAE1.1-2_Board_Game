@@ -1,4 +1,4 @@
-#Board Game — SAE 1.1-2
+# Board Game — SAE 1.1-2
 
 ## Author :
 
