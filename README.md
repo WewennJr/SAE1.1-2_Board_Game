@@ -1,6 +1,6 @@
 # Board Game — SAE 1.1-2
 
-## Author :
+## Author 
 
 Legros Ewenn & Faveroult Hugo
 TP2.1
